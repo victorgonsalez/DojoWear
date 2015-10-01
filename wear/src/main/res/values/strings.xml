@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dojo Wear</string>
+    <string name="counter_empty">0</string>
+</resources>

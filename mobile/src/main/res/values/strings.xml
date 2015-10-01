@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="video_app">Abrir Youtube</string>
+    <string name="map_app">Abri mapa</string>
+    <string name="title">Android Wear Sample</string>
+    <string name="title_maps_app">Procurar por país Google Maps</string>
+    <string name="title_notification">Insira um título</string>
+    <string name="message_notification"> Insira uma mensagem para aplicação</string>
+    <string name="send_notification">Enviar </string>
+    <string name="app_name">Dojo Wear</string>
+</resources>
